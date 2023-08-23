@@ -23,13 +23,13 @@ Steps:
 3) upgrade pip and install the required packages;
 
    
-     [(venv)$ python -m pip install -upgrade pip]
+     (venv)$ python -m pip install -upgrade pip
    
-     [(venv)$ python -m pip install -r requirements.txt]
+     (venv)$ python -m pip install -r requirements.txt
 
    
    
-4) run 'python chat.py'
+4) run script
 
    
-     [(venv)$ python chat.py]
+     (venv)$ python chat.py
