@@ -9,14 +9,14 @@ Steps:
 1) create a virtual environment on your system;
 
    
-     [~$ python3.9 -m venv venv]
+     $ python3.9 -m venv venv
 
    
   
 2) initalize the virtual enviroment;
 
    
-     [~$ source venv/bin/activate]
+     $ source venv/bin/activate
 
    
    
